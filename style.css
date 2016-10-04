@@ -1,5 +1,12 @@
 body { 
-background-color: red;
+background-color: #CC9966;
 color: #70003D;
 font-family: arial, helvetica, sans-serif;
+}
+h1 {
+color: red;
+}
+img {
+float:left;
+max-width: 220px;
 }
