@@ -1,12 +1,23 @@
 body { 
-background-color: #CC9966;
-color: #70003D;
+background-color: #4a7098;
+color: #d5e6e8;
 font-family: arial, helvetica, sans-serif;
 }
 h1 {
-color: red;
+text-align:center;
+color: #d5e6e8;
+}
+h2 {
+text-align:center;
+}
+h3{
+color: black;
+}
+h4{
+color: black;
 }
 img {
-float:left;
 max-width: 220px;
+float: left;
+padding: 30px;
 }
